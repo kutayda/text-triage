@@ -10,3 +10,4 @@ wheels/
 .venv/
 *.csv
 !emails.csv
+!jobs.csv
